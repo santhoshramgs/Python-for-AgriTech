@@ -9,4 +9,4 @@ Working with these PDF files can be a painful task but thankfully Python comes t
 # Power of Tabula.
 Tabula is a library which is going to help us handle these PDF files.
 # Converting to CSV file
-You can use dataframe.to_csv function from pandas to canvert any of these datafrmes to csv file. 
+You can use dataframe.to_csv function from pandas to convert any of these dataframes to csv file. 
